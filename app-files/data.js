@@ -337,7 +337,14 @@ var APP_DATA = {
           "target": "8-pool-deck-2"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [
+        {
+          "yaw": 0.802079708272732,
+          "pitch": 0.3222460376093288,
+          "title": "Pool with timber deck",
+          "text": "Glass edge swimming pool with timber deck"
+        }
+      ]
     },
     {
       "id": "8-pool-deck-2",
@@ -425,7 +432,14 @@ var APP_DATA = {
           "target": "10-pool-deck-4"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [
+        {
+          "yaw": 0.2838303231846133,
+          "pitch": -0.14165051989026622,
+          "title": "Excellent view",
+          "text": "Excellent panoramic views of Cyberjaya"
+        }
+      ]
     },
     {
       "id": "10-pool-deck-4",
@@ -510,20 +524,20 @@ var APP_DATA = {
           "yaw": 0.1689122769661342,
           "pitch": 0.07325363356042836,
           "rotation": 1.5707963267948966,
-          "target": "12-pool-deck-roof"
+          "target": "12-bbq-terrace"
         },
         {
           "yaw": -3.074609443638252,
           "pitch": 0.18104963392806184,
           "rotation": 0,
-          "target": "13-garden-1"
+          "target": "13-fitness-station"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "12-pool-deck-roof",
-      "name": "Pool deck roof",
+      "id": "12-bbq-terrace",
+      "name": "BBQ Terrace",
       "levels": [
         {
           "tileSize": 256,
@@ -560,8 +574,8 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "13-garden-1",
-      "name": "Garden 1",
+      "id": "13-fitness-station",
+      "name": "Fitness Station",
       "levels": [
         {
           "tileSize": 256,
@@ -630,7 +644,7 @@ var APP_DATA = {
           "yaw": -2.1667270658845865,
           "pitch": 0.09346042827985812,
           "rotation": 0,
-          "target": "13-garden-1"
+          "target": "13-fitness-station"
         }
       ],
       "infoHotspots": []
@@ -1489,7 +1503,14 @@ var APP_DATA = {
           "target": "35-outdoor-1"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [
+        {
+          "yaw": -2.9934848155827805,
+          "pitch": -0.12370343677237017,
+          "title": "Carpark",
+          "text": "5 level car parks<br>Each unit is given 2 car parks"
+        }
+      ]
     },
     {
       "id": "35-outdoor-1",
@@ -1665,7 +1686,14 @@ var APP_DATA = {
           "target": "37-outdoor-3"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [
+        {
+          "yaw": -1.5949355232786324,
+          "pitch": -0.7879218651559032,
+          "title": "Quick facts",
+          "text": "Overall comprises 400 units of 24-storey towers located above Centrus Mall.<div><br></div><div>Consists of 320 units of type studio with built-up area of 450 sq ft and 80 units of Duplex units with built-up areas ranging from 795 to 993 sq ft.</div>"
+        }
+      ]
     }
   ],
   "name": "Centrus Soho Outside",
