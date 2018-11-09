@@ -607,6 +607,12 @@ var APP_DATA = {
           "pitch": 0.06956008710173123,
           "rotation": 0,
           "target": "14-tennis-court-1"
+        },
+        {
+          "yaw": -1.1318688675764879,
+          "pitch": 0.05671634604995823,
+          "rotation": 0,
+          "target": "11-pool-deck-5"
         }
       ],
       "infoHotspots": []
@@ -645,6 +651,12 @@ var APP_DATA = {
           "pitch": 0.09346042827985812,
           "rotation": 0,
           "target": "13-fitness-station"
+        },
+        {
+          "yaw": 0.9259265889903396,
+          "pitch": 0.17644937699988716,
+          "rotation": 0,
+          "target": "15-tennis-court-2"
         }
       ],
       "infoHotspots": []
@@ -683,6 +695,12 @@ var APP_DATA = {
           "pitch": 0.018437275056054858,
           "rotation": 7.853981633974483,
           "target": "16-tennis-court-3"
+        },
+        {
+          "yaw": -0.5040053177591481,
+          "pitch": 0.13953825158424316,
+          "rotation": 0,
+          "target": "14-tennis-court-1"
         }
       ],
       "infoHotspots": []
@@ -853,6 +871,12 @@ var APP_DATA = {
           "pitch": 0.056425286256121865,
           "rotation": 0,
           "target": "18-playground-2"
+        },
+        {
+          "yaw": -2.159639674900541,
+          "pitch": 0.08632759144453672,
+          "rotation": 0,
+          "target": "20-common-area-1"
         }
       ],
       "infoHotspots": []
@@ -935,6 +959,12 @@ var APP_DATA = {
           "pitch": 0.0371548783898028,
           "rotation": 0,
           "target": "20-common-area-1"
+        },
+        {
+          "yaw": 0.9606755762165022,
+          "pitch": 0.12287745817616269,
+          "rotation": 0.7853981633974483,
+          "target": "22-common-area-3"
         }
       ],
       "infoHotspots": []
@@ -1281,6 +1311,12 @@ var APP_DATA = {
           "pitch": 0.06735996699613267,
           "rotation": 0,
           "target": "30-ground-floor-corridor"
+        },
+        {
+          "yaw": 0.6649429131829905,
+          "pitch": 0.02577297129360545,
+          "rotation": 0,
+          "target": "4-corridor-lift"
         }
       ],
       "infoHotspots": []
